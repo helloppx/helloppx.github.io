@@ -1,11 +1,11 @@
----
-layout: default
-title: 我的Blog
----
-<h2>{{ page.title }}</h2>
-<p>最新文章!</p>
-<ul>
-  {% for post in site.posts %}
-    <li>{{ post.date | date_to_string }} <a href="{{ post.url }}">{{ post.title }}</a></li>
-  {% endfor %}
-</ul>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>累成狗</title>
+  </head>
+  <body>
+    <!--img src="dog.jpg" style="display: block;margin-left: auto;margin-right: auto"-->
+    <img src="dog.jpg" style="position: absolute;top: 50%; left: 50%; margin-right: -50%; transform: translate(-50%, -50%)"/>
+  </body>
+</html>
