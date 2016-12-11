@@ -2,7 +2,7 @@
 
 title: record
 url: "http://helloppx.github.io"
-baseurl: "/"
+baseurl: "http://helloppx.github.io"
 
 # This will show up at the top of index page
 site_heading: >
