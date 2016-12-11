@@ -6,7 +6,7 @@ baseurl: "http://helloppx.github.io"
 
 # This will show up at the top of index page
 site_heading: >
-    foo <span class="faded">'s blog</span>
+    helloppx <span class="faded">'s blog</span>
 
 email: helloppx@gmail.com
 author: helloppx
