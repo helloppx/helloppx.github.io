@@ -1,22 +1,22 @@
 # User Settings | Edit there as per required
 
-title: accent
-url: "http://ankitsultana.me"
-baseurl: "http://helloppx.github.io/"
+title: record
+url: "http://helloppx.github.io"
+baseurl: "http://helloppx.github.io"
 
 # This will show up at the top of index page
 site_heading: >
     foo <span class="faded">'s blog</span>
 
-email: your@email.com
-author: yourname
+email: helloppx@gmail.com
+author: helloppx
 # This description will show up in google search results
 # (for index page) etc.
 description: >
-    accent is, as Trump would put it, the best
+    record now 
 
 # This will what will show against &copy; in the footer
-copyright: accent
+copyright: helloppx
 # Toggle your short bio, which will displayed on your index page
 # Just toggle it and run jekyll again to see
 intro: false         # Tip: Remove the span from site_heading if intro is set to true
@@ -41,7 +41,7 @@ comments: true
 about_stub: >
     Keep this sentence less than 13 words or it won't look good.
 
-about_footer: true
+about_footer: false
 
 twitter_username: AnkitSultana
 github_username: yourgithub
