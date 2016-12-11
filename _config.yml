@@ -2,7 +2,7 @@
 
 title: record
 url: "http://helloppx.github.io"
-baseurl: "http://helloppx.github.io"
+baseurl: "/"
 
 # This will show up at the top of index page
 site_heading: >
@@ -43,9 +43,9 @@ about_stub: >
 
 about_footer: false
 
-twitter_username: AnkitSultana
-github_username: yourgithub
-facebook_id: yourusername
+# twitter_username: AnkitSultana
+github_username: helloppx
+#facebook_id: yourusername
 
 favicon: true
 favicon_location: "images/favicon.ico"
